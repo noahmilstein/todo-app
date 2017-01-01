@@ -7,6 +7,7 @@ gem 'bootstrap-sass', '~> 3.3.6'
 gem 'sass-rails', '>= 3.2'
 gem 'jquery-rails'
 gem 'rails', '~> 5.0'
+gem 'font-awesome-sass', '~> 4.7.0'
 group :development, :test do
   gem 'capybara'
   gem 'factory_girl_rails'
